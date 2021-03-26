@@ -1,0 +1,15 @@
+.nav-logo {
+    float: left;
+    transition: transform 300ms ease-out;
+    margin-top: -15px;
+}
+
+.nav-links li a {
+    color: #000000;
+}
+
+.intro-header [class$="-heading"] h1 {
+    margin-top: 0;
+    padding-top: 0;
+    font-size: 35px !important;
+}
